@@ -1,0 +1,116 @@
+Repaint of SLI BN_SD45_6476 into ATSF_SD45B_5502 All models and textures by Streamlines Corp "www.streamlines.ca" 
+
+You must have the SLI BN set that contains the shape file for BN_SD45_6476 in order to make this repaint work.
+
+INSTALLATION INSTRUCTIONS:
+1. Unzip this download to a temporary file named ATSF_SD45B_5502 and place it in your TRAINSET directory of MSTS
+2. Copy the shape file of BN_SD45_6476.s into the file and rename it ATSF_SD45B_5502.s
+3. Using Shape File Manager or program of your choice, uncompress ATSF_SD45B_5502.s and rename SD45a and SD45b
+   to ATSF_SD45B_5502.a and ATSF_SD45B_5502.b
+4. Next find the section that reads;
+
+	shader_names ( 2
+		named_shader ( TexDiff )
+		named_shader ( BlendATexDiff )
+
+   and change to read ;
+
+	shader_names ( 2
+		named_shader ( BlendATexDiff )
+		named_shader ( BlendATexDiff )
+
+5. Next find the section that reads;				
+
+	prim_states ( 13
+		prim_state 1_-_Default ( 00000000 0
+			tex_idxs ( 1 0 ) 0 0 0 0 1
+		)
+		prim_state 1_-_Default ( 00000000 0
+			tex_idxs ( 1 0 ) 0 2 0 0 1
+		)
+		prim_state 1_-_Default ( 00000000 0
+			tex_idxs ( 1 0 ) 0 3 0 0 1
+		)
+		prim_state 1_-_Default ( 00000000 0
+			tex_idxs ( 1 0 ) 0 4 0 0 1
+		)
+		prim_state 1_-_Default ( 00000000 0
+			tex_idxs ( 1 0 ) 0 5 0 0 1
+		)
+		prim_state 1_-_Default ( 00000000 0
+			tex_idxs ( 1 0 ) 0 6 0 0 1
+		)
+		prim_state 1_-_Default ( 00000000 0
+			tex_idxs ( 1 0 ) 0 7 0 0 1
+		)
+		prim_state 1_-_Default ( 00000000 0
+			tex_idxs ( 1 0 ) 0 8 0 0 1
+		)
+		prim_state 1_-_Default ( 00000000 0
+			tex_idxs ( 1 0 ) 0 9 0 0 1
+		)
+		prim_state 2_-_Default ( 00000000 1
+			tex_idxs ( 1 1 ) 0 10 1 0 1
+		)
+		prim_state Mtl_#0 ( 00000000 0
+			tex_idxs ( 1 1 ) 0 11 0 0 1
+		)
+		prim_state 3_-_Default ( 00000000 0
+			tex_idxs ( 1 2 ) 0 12 0 0 1
+		)
+		prim_state 7_-_Default ( 00000000 1
+			tex_idxs ( 1 3 ) 0 1 0 0 1
+		)		
+
+   Change it to read;
+
+	prim_states ( 13
+		prim_state 1_-_Default ( 00000000 0
+			tex_idxs ( 1 0 ) 0 0 1 0 1
+		)
+		prim_state 1_-_Default ( 00000000 0
+			tex_idxs ( 1 0 ) 0 2 1 0 1
+		)
+		prim_state 1_-_Default ( 00000000 0
+			tex_idxs ( 1 0 ) 0 3 1 0 1
+		)
+		prim_state 1_-_Default ( 00000000 0
+			tex_idxs ( 1 0 ) 0 4 1 0 1
+		)
+		prim_state 1_-_Default ( 00000000 0
+			tex_idxs ( 1 0 ) 0 5 1 0 1
+		)
+		prim_state 1_-_Default ( 00000000 0
+			tex_idxs ( 1 0 ) 0 6 1 0 1
+		)
+		prim_state 1_-_Default ( 00000000 0
+			tex_idxs ( 1 0 ) 0 7 1 0 1
+		)
+		prim_state 1_-_Default ( 00000000 0
+			tex_idxs ( 1 0 ) 0 8 1 0 1
+		)
+		prim_state 1_-_Default ( 00000000 0
+			tex_idxs ( 1 0 ) 0 9 1 0 1
+		)
+		prim_state 2_-_Default ( 00000000 1
+			tex_idxs ( 1 1 ) 0 10 1 0 1
+		)
+		prim_state Mtl_#0 ( 00000000 0
+			tex_idxs ( 1 1 ) 0 11 1 0 1
+		)
+		prim_state 3_-_Default ( 00000000 0
+			tex_idxs ( 1 2 ) 0 12 1 0 1
+		)
+		prim_state 7_-_Default ( 00000000 1
+			tex_idxs ( 1 3 ) 0 1 1 0 1
+		)
+
+5. Now compress shape file.
+
+6. Sound is aliased to T645_EMDTRAILeng.sms so copy the sound folder from the BN pac
+ 
+7. Make a consist and enjoy
+
+Thanks to the SLI folks for their repaint policy! 
+F/A by Carlos Martinez
+Repaint by Kent Stough 2013	

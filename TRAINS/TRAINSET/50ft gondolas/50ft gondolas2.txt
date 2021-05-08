@@ -1,0 +1,16 @@
+MSTS 50' Gondolas with various loads 6-pack
+
+Original photos by George Elwood, Greg Dickinson, VG Aylward, Gary Overfield and Larry Berger and Jay Williams (courtesy of George Elwood).
+The OSM texture is edited from 2 photos as the other had better quality but the company name was Cregon Eel nills...
+
+The EL gondola needs to be between 2 flat cars, as it has oversize load.
+
+Feel free to repaint these cars as long as I get the credit of the models. I can also supply the TSM file if you want to create new load.
+
+Installation: extract this zip file to Trainsim/trains/trainset folder
+
+model and texture by Teemu Saukkonen a.k.a. Enocell
+enocell@hotmail.com, teemu.saukkonen@kolumbus.fi
+
+
+

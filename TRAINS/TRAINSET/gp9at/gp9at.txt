@@ -1,0 +1,30 @@
+ATSF GP 9 Yellow and Blue Locomotive 
+for Microsoft Train Simulator
+10/10/01
+Repaint of the demo GP 9 by 3D Trains
+by Bob Wirth.
+
+-----------------------------------------------------------------------------
+Install instructions: unzip and copy the contents of this .zip to a folder named as desired in your Train Simulator/trains/trainset folder.
+You do not need to copy a cabview or sound folder from another locomotive
+as this locomotive aliases the default GP 38. This saves 12MB of space on your hard disk.
+    
+For better sound get GP38-2 dynamic brake sound addition by By Bill Mahan
+available on the train-sim.com site.
+Put his fix in the default GP 38 and it as well as any other locos
+aliased to it will have dynamic brake sound. 
+
+Public Domain.
+
+
+
+
+
+
+
+
+
+
+
+-----------------------------------------------------------------------------
+

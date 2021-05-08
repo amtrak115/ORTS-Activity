@@ -1,0 +1,31 @@
+MSTS CF7 Santa Fe 2444
+repaint of Manuel Sanabria's angled cab CF7. Thanks to Manuel for his excellent model, and the inclusion of user friendly repaint templates, making this version possible.
+
+This livery was created after photo's I have found on various train enthousiast sites on the web, and I have tried to stay as close as possible to the original. I know the Santa Fe herald on the short nose is too large, but the texture that goes on the nose is only so big, and I had to strike a compromise between readability and accuracy.
+
+I have changed the alpha channel on one of the .ace files to make a small extra window on the engineers front side, as most CF7's seem to have one.
+Manuel's readme is also included for your information. (the org_readme file)
+Cabview and sound are aliased to the default GP38, so that should be properly installed.
+
+Instructions:
+Unzip this zip file to a temporary directory.
+
+Use explorer to move the CF7_Sf2444 folder to the 'Trainset' folder in your Trainsim installation.
+
+Use the consist editor portion of the Trainsimulator activity editor to create a consist.
+
+Start Trainsim itself, select your consist, and off you go!
+
+Enjoy the ride.
+
+
+
+The use of these files should not harm your computer, but if you think it did, do not blame me O.K.?
+
+And another thing, as is Manuel's original file, this repainted version is intended as freeware, so do not try to make money with these files in anyway!
+
+
+Greetings and happy railroading,
+
+René Bos
+rein.bos@wxs.nl

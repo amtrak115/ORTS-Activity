@@ -1,0 +1,21 @@
+Read Me for Alaska RR Business Car "The Denali"
+
+This car was originally made by Damon Swanson and modified by Teemu Saukkonen. Repainted into an approximation of Alaska RR business car "The Denali" by Lukas A. Lusser.
+
+The Denali was originally built as Pullman Heavyweight Sleeper with 14 open sections. Named the "Archibald Guthrie", it was assigned to serve on the Great Northern RR. Later taken over by the Great Northern RR itself, the car served on as a sleeper into the 1950s. In 1957, the car was rebuilt into a business car. Great Northern's shops replaced the riveted sides of the car with new smooth welded sides. Furthermore, an additional 9 ft section was spliced into the middle of the car, and an open plattform added to its end. Last but not least, the "new" business car was renamed to "Glacier Pass".
+
+In 1972, the Alaska RR bought the "Glacier Pass". It was renamed "The Denali", in honor of North America's highest mountain, undoubtedly the major scenic attraction along the railroad. In 1985, the Alaska RR modified the floor plan of the car, removing the secretary's office in favor of additional accomodation, as the car served way more often as VIP carrier than as mobile office for RR officials.
+
+The Denali served the Alaska RR until recently. In the year 2000, a new business car arrived in the form of car #2000, a low slung glass roofed full-length lounge observation car originally ordered by the "Florida Fun Train" but never taken-up by the defunct enterprise. The Denali was officially retired in 2001 and put up for sale (source: John Combs,and his truly information-loaded website www.alaskarails.org).
+
+
+Installation 
+
+The car is ready to run, no copying of additional files needed. Move the entire Folder < Alaska_301 > to your MS Train Simulator sub-directory ../Trains/Trainset. Use MSTS consist editor and include the car in a consist of your choice.
+
+
+The legal stuff
+
+Original 3D-model by Damon Swanson, modified and re-textured by Teemu Saukkonen. Repaint into Alaska RR colors by Lukas A. Lusser on December 3, 2002. The new paint job is freeware, no money has to be made with it.
+
+Publication is at www.train-sim.com.
